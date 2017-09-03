@@ -1,6 +1,6 @@
 /dist/
 
-# Created by https://www.gitignore.io/api/node,web,jetbrains+all
+# Created by https://www.gitignore.io/api/node,jetbrains+all
 
 ### JetBrains+all ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
@@ -120,17 +120,4 @@ typings/
 .env
 
 
-### Web ###
-*.asp
-*.cer
-*.csr
-*.css
-*.htm
-*.html
-*.js
-*.jsp
-*.php
-*.rss
-*.xhtml
-
-# End of https://www.gitignore.io/api/node,web,jetbrains+all
+# End of https://www.gitignore.io/api/node,jetbrains+all
